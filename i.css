@@ -1,0 +1,24 @@
+@media  only screen and (min-width:768px){
+    body{
+        background-image: linear-gradient(to right,darkblue,darkgreen);
+    }
+    
+    section{
+        width: 80vw;
+    }
+    #form{
+        float: right;
+        width: 50%;
+        height: 100%;
+        display: block;
+
+    }
+    .image{
+        background-color: black;
+        float: left;
+        width: 60px;
+        height: 100%;
+        display: block;
+        
+    }
+}
